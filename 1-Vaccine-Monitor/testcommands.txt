@@ -1,0 +1,111 @@
+/vaccineStatusBloom 2781 H-flu
+/vaccineStatus 2781 H-flu
+/vaccineStatus 2781
+/populationStatus 75 H-flu 01-01-2000 02-04-2021
+/populationStatus H-flu 01-01-2000 02-04-2021
+/popStatusByAge 75 H-flu 01-01-2000 02-04-2021
+/popStatusByAge H-flu 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons H-flu
+/vaccinateNow 2781 Vwsmdtkixf Htzjscod Bhutan 75 H-flu 
+/vaccineStatus 2781
+/vaccineStatusBloom 9458 Rickettsiosis
+/vaccineStatus 9458 Rickettsiosis
+/vaccineStatus 9458
+/populationStatus 85 Rickettsiosis 01-01-2000 02-04-2021
+/populationStatus Rickettsiosis 01-01-2000 02-04-2021
+/popStatusByAge 85 Rickettsiosis 01-01-2000 02-04-2021
+/popStatusByAge Rickettsiosis 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Rickettsiosis
+/vaccinateNow 9458 Srra Tyhrvafung Georgia 85 Rickettsiosis 
+/vaccineStatus 9458
+/vaccineStatusBloom 3234 EEE
+/vaccineStatus 3234 EEE
+/vaccineStatus 3234
+/populationStatus 26 EEE 01-01-2000 02-04-2021
+/populationStatus EEE 01-01-2000 02-04-2021
+/popStatusByAge 26 EEE 01-01-2000 02-04-2021
+/popStatusByAge EEE 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons EEE
+/vaccinateNow 3234 Hgkwea Uuatsqjp Philippines 26 EEE 
+/vaccineStatus 3234
+/vaccineStatusBloom 4360 Scombroid
+/vaccineStatus 4360 Scombroid
+/vaccineStatus 4360
+/populationStatus 95 Scombroid 01-01-2000 02-04-2021
+/populationStatus Scombroid 01-01-2000 02-04-2021
+/popStatusByAge 95 Scombroid 01-01-2000 02-04-2021
+/popStatusByAge Scombroid 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Scombroid
+/vaccinateNow 4360 Nfuuvgw Xhnhnzo Liberia 95 Scombroid 
+/vaccineStatus 4360
+/vaccineStatusBloom 4021 Tularemia
+/vaccineStatus 4021 Tularemia
+/vaccineStatus 4021
+/populationStatus 115 Tularemia 01-01-2000 02-04-2021
+/populationStatus Tularemia 01-01-2000 02-04-2021
+/popStatusByAge 115 Tularemia 01-01-2000 02-04-2021
+/popStatusByAge Tularemia 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Tularemia
+/vaccinateNow 4021 Yvunvmm Reptyyorl Portugal 115 Tularemia 
+/vaccineStatus 4021
+/vaccineStatusBloom 1371 Melioidosis
+/vaccineStatus 1371 Melioidosis
+/vaccineStatus 1371
+/populationStatus 34 Melioidosis 01-01-2000 02-04-2021
+/populationStatus Melioidosis 01-01-2000 02-04-2021
+/popStatusByAge 34 Melioidosis 01-01-2000 02-04-2021
+/popStatusByAge Melioidosis 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Melioidosis
+/vaccinateNow 1371 Rlfyzvqoobw Jizdbuniyum Honduras 34 Melioidosis 
+/vaccineStatus 1371
+/vaccineStatusBloom 12 Q-Fever
+/vaccineStatus 12 Q-Fever
+/vaccineStatus 12
+/populationStatus 111 Q-Fever 01-01-2000 02-04-2021
+/populationStatus Q-Fever 01-01-2000 02-04-2021
+/popStatusByAge 111 Q-Fever 01-01-2000 02-04-2021
+/popStatusByAge Q-Fever 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Q-Fever
+/vaccinateNow 12 Hvwnoyihidse Nsnssunugxr India 111 Q-Fever 
+/vaccineStatus 12
+/vaccineStatusBloom 6889 Meningitis
+/vaccineStatus 6889 Meningitis
+/vaccineStatus 6889
+/populationStatus 50 Meningitis 01-01-2000 02-04-2021
+/populationStatus Meningitis 01-01-2000 02-04-2021
+/popStatusByAge 50 Meningitis 01-01-2000 02-04-2021
+/popStatusByAge Meningitis 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Meningitis
+/vaccinateNow 6889 Uditudsmiyyz Kuhumjs Guatemala 50 Meningitis 
+/vaccineStatus 6889
+/vaccineStatusBloom 3344 Cyclosporiasis
+/vaccineStatus 3344 Cyclosporiasis
+/vaccineStatus 3344
+/populationStatus 56 Cyclosporiasis 01-01-2000 02-04-2021
+/populationStatus Cyclosporiasis 01-01-2000 02-04-2021
+/popStatusByAge 56 Cyclosporiasis 01-01-2000 02-04-2021
+/popStatusByAge Cyclosporiasis 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Cyclosporiasis
+/vaccinateNow 3344 Dtukrh Yiseoinwu Liberia 56 Cyclosporiasis 
+/vaccineStatus 3344
+/vaccineStatusBloom 3234 COVID-19
+/vaccineStatus 3234 COVID-19
+/vaccineStatus 3234
+/populationStatus 26 COVID-19 01-01-2000 02-04-2021
+/populationStatus COVID-19 01-01-2000 02-04-2021
+/popStatusByAge 26 COVID-19 01-01-2000 02-04-2021
+/popStatusByAge COVID-19 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons COVID-19
+/vaccinateNow 3234 Hgkwea Uuatsqjp Philippines 26 COVID-19 
+/vaccineStatus 3234
+/vaccineStatusBloom 1033 Glanders
+/vaccineStatus 1033 Glanders
+/vaccineStatus 1033
+/populationStatus 65 Glanders 01-01-2000 02-04-2021
+/populationStatus Glanders 01-01-2000 02-04-2021
+/popStatusByAge 65 Glanders 01-01-2000 02-04-2021
+/popStatusByAge Glanders 01-01-2000 02-04-2021
+/list-nonVaccinated-Persons Glanders
+/vaccinateNow 1033 Hqzek Www Uzbekistan 65 Glanders 
+/vaccineStatus 1033
+/exit
