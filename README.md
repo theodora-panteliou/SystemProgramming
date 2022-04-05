@@ -50,6 +50,35 @@ Purpose of the assignment was to familiarize with:
 * Named Pipes
 * System Calls
 
+At first, run the `create_infiles.sh` bash script to create the input direcotory:
+```
+$./create_infiles.sh inputFile input_directory num_of_records
+```
+where inputFile is the input and input_directory is the output directory. For example:
+```
+./create_infiles.sh inputFile.txt input_dir 5
+```
+
+To run the vaccine monitor app:
+
+```
+$make
+$./build/travelMonitor -–m numMonitors -b bufferSize -s sizeOfBloom -i input_dir
+```
+where numMonitors is the number of the monitor processes, buferSize is the size of buffer for reading through pipes, input_dir is the input directory that was created with the bash script. 
+
+For example:
+```
+$./build/travelMonitor -i input_dir -s 100000 -b 100 -m 3
+```
+The program reads from that directory, communicates with processes through named pipes and initializes structures.
+Then it waits for the following commands:
+* `/travelRequest citizenID date countryFrom countryTo virusName`
+* `/travelStats virusName date1 date2 [country]`
+* `/addVaccinationRecords country`
+* `/searchVaccinationStatus citizenID`
+* `/exit`
+
 ## Project 3
 
 Purpose of the assignment was to familiarize with: 
