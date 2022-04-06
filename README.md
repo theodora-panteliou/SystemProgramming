@@ -85,3 +85,18 @@ Purpose of the assignment was to familiarize with:
 * Threads
 * Sockets
 
+To run the vaccine monitor app:
+
+```
+$make
+$./travelMonitorClient –m numMonitors -b socketBufferSize -c cyclicBufferSize -s sizeOfBloom -i input_dir -t numThreads
+```
+where `socketBufferSize` is the size in bytes to read through sockets and cyclicBufferSize is the size of buffer in entries (for example 10 file names) for the monitorServer's cyclic buffer.
+
+Then it waits for the following commands:
+* `/travelRequest citizenID date countryFrom countryTo virusName`
+* `/travelStats virusName date1 date2 [country]`
+* `/addVaccinationRecords country`
+* `/searchVaccinationStatus citizenID`
+* `/exit`
+
