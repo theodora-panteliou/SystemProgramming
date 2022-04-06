@@ -32,7 +32,7 @@ $./build/vaccineMonitor -c inputFile.txt  -b 100000
 ```
 
 The program reads the file and initializes the structures.
-Then you can gine the following commands (arguments inside [] are optional):
+Then it waits for the following commands (arguments inside [] are optional):
 * `/vaccineStatusBloom citizenID virusName`
 * `/vaccineStatus citizenID virusName`
 * `/vaccineStatus citizenID`
