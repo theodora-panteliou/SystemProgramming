@@ -1,6 +1,3 @@
-Α.Μ.:1115201800142
-Ονοματεπώνυμο: Θεοδώρα Παντελιού
-
 Β' Μέρος-Bash Script
 
 Εκτέλεση: $./testFile.sh ./testfiles/virusesfile.txt ./testfiles/countries.txt 50000 1
