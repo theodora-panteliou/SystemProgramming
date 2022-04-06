@@ -54,7 +54,7 @@ At first, run the `create_infiles.sh` bash script to create the input direcotory
 ```
 $./create_infiles.sh inputFile input_directory num_of_records
 ```
-where inputFile is the input and input_directory is the output directory. For example:
+where inputFile is the input (from `./testFile.sh`) and input_directory is the output directory. For example:
 ```
 ./create_infiles.sh inputFile.txt input_dir 5
 ```
